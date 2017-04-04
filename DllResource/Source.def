@@ -1,0 +1,4 @@
+LIBRARY
+ EXPORTS
+
+   showDialog @1
